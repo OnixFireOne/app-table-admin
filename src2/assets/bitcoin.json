@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "title": "Графики",
+    "links": [
+      {
+        "title": "Tradingview",
+        "url": "https://#",
+        "thumbnailUrl": "https://inp.one/news-lite/assets/img/shotTest5.gif",
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Статистика",
+    "links": [
+      {
+        "title": "BitStatistics",
+        "url": "https://www.blockchain.com/explorer/charts",
+        "thumbnailUrl": "https://inp.one/news-lite/assets/img/shotTest21.gif",
+        "id": 1
+      },
+      {
+        "title": "Halving",
+        "url": "https://www.binance.vision/ru/halving",
+        "thumbnailUrl": "https://inp.one/news-lite/assets/img/shotTest7-2.gif",
+        "id": 2
+      },
+      {
+        "title": "Топ 100 богатейших Bitcoin кошельков",
+        "url": "https://bitinfocharts.com/ru/top-100-richest-bitcoin-addresses.html",
+        "thumbnailUrl": "https://inp.one/news-lite/assets/img/shotTest19.gif",
+        "id": 3
+      },
+      {
+        "title": "Converter",
+        "url": "https://coinmarketcap.com/converter/",
+        "thumbnailUrl": "https://inp.one/news-lite/assets/img/shotTest10.gif",
+        "id": 4
+      },
+      {
+        "title": "Карта Крипты",
+        "url": "https://coin360.com/",
+        "thumbnailUrl": "https://inp.one/news-lite/assets/img/shotTest8.gif",
+        "id": 4
+      },
+      {
+        "albumId": 1,
+        "id": 3,
+        "title": "officia porro iure quia iusto qui ipsa ut modi",
+        "url": "https://via.placeholder.com/600/24f355",
+        "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+      },
+      {
+        "albumId": 1,
+        "id": 4,
+        "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+        "url": "https://via.placeholder.com/600/d32776",
+        "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+      },
+      {
+        "albumId": 1,
+        "id": 5,
+        "title": "natus nisi omnis corporis facere molestiae rerum in",
+        "url": "https://via.placeholder.com/600/f66b97",
+        "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+      },
+      {
+        "albumId": 1,
+        "id": 6,
+        "title": "accusamus ea aliquid et amet sequi nemo",
+        "url": "https://via.placeholder.com/600/56a8c2",
+        "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+      }
+    ],
+    "text": "Bitcoin is a cryptocurrency launched in January 2009 with the first genesis block mined on 9th January 2009. It is a decentralized digital currency that is based on cryptography. As such, it can operate without the need of a central authority like a central bank or a company. It is unlike government-issued or fiat currencies such as US Dollars or Euro in which they are controlled by the country’s central bank. The decentralized nature allows it to operate on a peer-to-peer network whereby users are able to send funds to each other without going through intermediaries."
+  },
+  {
+    "id": 2,
+    "title": "Социальные",
+    "links": [
+      {
+        "albumId": 1,
+        "id": 1,
+        "title": "accusamus beatae ad facilis cum similique qui sunt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+      },
+      {
+        "albumId": 1,
+        "id": 2,
+        "title": "reprehenderit est deserunt velit ipsam",
+        "url": "https://via.placeholder.com/600/771796",
+        "thumbnailUrl": "https://via.placeholder.com/150/771796"
+      },
+      {
+        "albumId": 1,
+        "id": 3,
+        "title": "officia porro iure quia iusto qui ipsa ut modi",
+        "url": "https://via.placeholder.com/600/24f355",
+        "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+      },
+      {
+        "albumId": 1,
+        "id": 4,
+        "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+        "url": "https://via.placeholder.com/600/d32776",
+        "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+      },
+      {
+        "albumId": 1,
+        "id": 5,
+        "title": "natus nisi omnis corporis facere molestiae rerum in",
+        "url": "https://via.placeholder.com/600/f66b97",
+        "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+      },
+      {
+        "albumId": 1,
+        "id": 6,
+        "title": "accusamus ea aliquid et amet sequi nemo",
+        "url": "https://via.placeholder.com/600/56a8c2",
+        "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+      },
+      {
+        "albumId": 1,
+        "id": 7,
+        "title": "officia delectus consequatur vero aut veniam explicabo molestias",
+        "url": "https://via.placeholder.com/600/b0f7cc",
+        "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
+      },
+      {
+        "albumId": 1,
+        "id": 8,
+        "title": "aut porro officiis laborum odit ea laudantium corporis",
+        "url": "https://via.placeholder.com/600/54176f",
+        "thumbnailUrl": "https://via.placeholder.com/150/54176f"
+      },
+      {
+        "albumId": 1,
+        "id": 9,
+        "title": "qui eius qui autem sed",
+        "url": "https://via.placeholder.com/600/51aa97",
+        "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
+      },
+      {
+        "albumId": 1,
+        "id": 10,
+        "title": "beatae et provident et ut vel",
+        "url": "https://via.placeholder.com/600/810b14",
+        "thumbnailUrl": "https://via.placeholder.com/150/810b14"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Полезное",
+    "links": [
+      {
+        "albumId": 1,
+        "id": 1,
+        "title": "accusamus beatae ad facilis cum similique qui sunt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+      },
+      {
+        "albumId": 1,
+        "id": 2,
+        "title": "reprehenderit est deserunt velit ipsam",
+        "url": "https://via.placeholder.com/600/771796",
+        "thumbnailUrl": "https://via.placeholder.com/150/771796"
+      },
+      {
+        "albumId": 1,
+        "id": 3,
+        "title": "officia porro iure quia iusto qui ipsa ut modi",
+        "url": "https://via.placeholder.com/600/24f355",
+        "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+      },
+      {
+        "albumId": 1,
+        "id": 4,
+        "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+        "url": "https://via.placeholder.com/600/d32776",
+        "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+      },
+      {
+        "albumId": 1,
+        "id": 5,
+        "title": "natus nisi omnis corporis facere molestiae rerum in",
+        "url": "https://via.placeholder.com/600/f66b97",
+        "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+      },
+      {
+        "albumId": 1,
+        "id": 6,
+        "title": "accusamus ea aliquid et amet sequi nemo",
+        "url": "https://via.placeholder.com/600/56a8c2",
+        "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+<div class="flex h-full justify-center items-center">
+
+  <div class="mat-elevation-z2 rounded p-10">
+    <form [formGroup]="form" (ngSubmit)="submit()">
+      <div class="flex flex-col">
+        <mat-form-field class="mb-2">
+          <mat-label class=""><mat-icon class="pt-0.5 mr-1">person</mat-icon>Username</mat-label>
+          <input type="text" matInput formControlName="user">
+          <mat-error *ngIf="form.invalid">You must enter a value</mat-error>
+        </mat-form-field>
+
+        <mat-form-field class="mb-2">
+          <mat-label><mat-icon class="pt-0.5 mr-1">key</mat-icon>Password</mat-label>
+          <input type="password" matInput formControlName="pass">
+          <mat-error *ngIf="form.invalid">{{getErrorMessage()}}</mat-error>
+        </mat-form-field>
+      </div>
+      <div class="flex justify-end">
+        <button type="submit" mat-raised-button color="primary" [disabled]="form.invalid || submitted">Login</button>
+      </div>
+
+    </form>
+  </div>
+
+</div>

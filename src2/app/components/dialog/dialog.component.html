@@ -1,0 +1,23 @@
+<mat-dialog-content>
+  <div class="m-5 flex flex-row">
+    <div class="">
+      <form class="flex flex-col w-96" [formGroup]="form" (ngSubmit)="submitForm()">
+        <div class="flex flex-col">
+          <mat-form-field>
+            <mat-label>Title</mat-label>
+            <input matInput formControlName="title">
+          </mat-form-field>
+          <mat-form-field >
+            <mat-label>Url</mat-label>
+            <input matInput formControlName="url">
+          </mat-form-field>
+          <mat-form-field>
+            <mat-label>Thumbnail</mat-label>
+            <input matInput formControlName="thumbnail">
+          </mat-form-field>
+        </div>
+        <button mat-flat-button type="submit">Send</button>
+      </form>
+    </div>
+  </div>
+</mat-dialog-content>

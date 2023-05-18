@@ -1,0 +1,38 @@
+<div mat-dialog-title>
+  <div class="relative">
+    <h1>Add new item</h1>
+    <div class="absolute position-icon-close">
+      <button mat-icon-button (click)="closeDialog()">
+        <mat-icon>close</mat-icon>
+      </button>
+    </div>
+  </div>
+
+
+</div>
+
+<mat-dialog-content>
+  <form [formGroup]="form">
+    <div class="flex flex-col">
+      <mat-form-field class="w-96" appearance="fill">
+        <mat-label>Title</mat-label>
+        <input matInput formControlName="title">
+      </mat-form-field>
+
+      <!--    <mat-checkbox [(ngModel)]="data.menuActive">Activate Menu</mat-checkbox>-->
+    </div>
+  </form>
+
+
+
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+  <button *ngIf="data.title != ''" mat-stroked-button mat-dialog-close="delete!">
+    <mat-icon color="warn">delete</mat-icon>
+    Delete
+  </button>
+  <button mat-raised-button [mat-dialog-close]="closeWithResult()">
+    <mat-icon color="primary">done</mat-icon>
+    Save
+  </button>
+</mat-dialog-actions>

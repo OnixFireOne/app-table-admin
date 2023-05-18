@@ -1,0 +1,32 @@
+<mat-toolbar id="mainMenu" class="mat-elevation-z6 fixed z-10">
+  <button mat-icon-button [matMenuTriggerFor]="menu">
+    <mat-icon>menu</mat-icon>
+  </button>
+  <span>Admin Panel <span class="opacity-75">BETA</span></span>
+  <span class="flex flex-auto"></span>
+  <button mat-icon-button
+          (click)="toggleLightTheme()"
+          class="theme-toggle"
+          aria-label="Toggle Dark Theme">
+    <mat-icon>{{isDark ? "light_mode" : "dark_mode" }}</mat-icon>
+  </button>
+
+  <mat-menu #menu="matMenu">
+
+    <button mat-menu-item routerLink="/">
+      <mat-icon>home</mat-icon><span>Home</span>
+    </button>
+
+
+    <button mat-menu-item (click)="logout()">
+      <mat-icon>logout</mat-icon><span>Logout</span>
+    </button>
+
+<!--    <button mat-menu-item (click)="test($event)">-->
+<!--      <mat-icon>add</mat-icon><span>Tessss</span>-->
+<!--    </button>-->
+
+  </mat-menu>
+</mat-toolbar>
+
+
